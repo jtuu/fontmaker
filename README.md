@@ -6,6 +6,8 @@ Raster image to TrueType font converter
 * FontForge 2017
 * potrace 1.15
 * ImageMagick 7
+* Bash 4
+* Python 3
 
 ## Usage
 `./src/fontmaker.sh /path/to/inputfile`
